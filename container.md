@@ -1,6 +1,6 @@
 # Service Container
 
-- [Introduction](#introduction)
+- [مقدمة](#introduction)
 - [Binding](#binding)
     - [Binding Basics](#binding-basics)
     - [Binding Interfaces To Implementations](#binding-interfaces-to-implementations)
@@ -14,8 +14,8 @@
 - [PSR-11](#psr-11)
 
 <a name="introduction"></a>
-## Introduction
-
+## مقدمة
+يعتمد لارفل على واحدة من أهم الأدوات التي تدير آلية التعامل مع ال (Class dependinsies) 
 The Laravel service container is a powerful tool for managing class dependencies and performing dependency injection. Dependency injection is a fancy phrase that essentially means this: class dependencies are "injected" into the class via the constructor or, in some cases, "setter" methods.
 
 Let's look at a simple example:
